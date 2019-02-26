@@ -20,7 +20,6 @@ import com.example.androidbackground.R;
 import com.example.androidbackground.jsonParse.PictureGson;
 import com.google.gson.Gson;
 import com.squareup.picasso.Picasso;
-
 import java.util.ArrayList;
 import java.util.List;
 
